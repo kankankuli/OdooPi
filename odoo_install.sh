@@ -14,8 +14,8 @@
 # ./odoo-install.sh
 # sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 8069 -j ACCEPT
 # sudo netfilter-persistent save
-# wget https://www.soladrive.com/downloads/enterprise-15.0.tar.gz
-# tar -zxvf enterprise-15.0.tar.gz
+# wget https://www.soladrive.com/downloads/enterprise-13.0.tar.gz
+# tar -zxvf enterprise-13.0.tar.gz
 # sudo service odoo-server stop
 # sudo service odoo-server start
 ################################################################################
