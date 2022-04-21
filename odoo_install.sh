@@ -16,6 +16,8 @@
 # sudo netfilter-persistent save
 # wget https://www.soladrive.com/downloads/enterprise-15.0.tar.gz
 # tar -zxvf enterprise-15.0.tar.gz
+# sudo service odoo-server stop
+# sudo service odoo-server start
 ################################################################################
 
 OE_USER="odoo"
